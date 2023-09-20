@@ -1,0 +1,2 @@
+.idea폴더<인텔리제이의 설정관련 같은폴더안에 같이rsc폴더있어야함
+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
